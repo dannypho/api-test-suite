@@ -1,5 +1,8 @@
 # API Testing Suite
 
+![Tests](https://github.com/dannypho/api-test-suite/actions/workflows/tests.yml/badge.svg)
+
+
 Automated API test suite for validating JSONPlaceholder REST API endpoints using Python, Requests, and Pytest.
 
 ## Overview
